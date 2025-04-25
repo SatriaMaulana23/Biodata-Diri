@@ -1,0 +1,33 @@
+td {
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1{
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+img {
+    border-radius: 5px;
+    width: 180px;
+    height: 240px;
+    float: left;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.text-gray{
+    color: black
+}
+
+.bg-yellowgreen{
+    background: yellowgreen;
+}
